@@ -17,4 +17,4 @@ Database scripts, sample data, documentation, ER diagrams, and screenshots are m
 
 Current Status
 
-Phase 1 - Databse Design
+Phase 1 - Database Design - In Progress
